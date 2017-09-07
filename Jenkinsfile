@@ -11,5 +11,36 @@ pipeline {
         echo 'Init stage'
       }
     }
+    stage('run') {
+      steps {
+        sh '''id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+      }
+    }
   }
 }
